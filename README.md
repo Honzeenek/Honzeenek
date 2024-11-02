@@ -26,7 +26,7 @@ I’m passionate about creating custom, fully unique websites that add real valu
 
 <details>
   <summary><h3>👨‍💻My Coding Journey</h3></summary>
-
+  Coming soon
 </details>
 <!--
 **Honzeenek/Honzeenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

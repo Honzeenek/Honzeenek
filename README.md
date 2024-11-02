@@ -1,4 +1,7 @@
 ## Hi there 👋
+**`Website Engineer (Learning Code/Graphic Designer/Freelancer)`**
+
+I'm a student focusing on learning web development skill aiming to full-stack web development career. With my previous experience with graphic design, I want to utilize this skill to create more visually appealing website. I chose this path with a reason. My main intention is to create something functional as well as good looking - Websites. I'm a person that is focused on creating custom, fully unique website which adds up value in the field since most of websites are ran on wordpress, which isn't pretty close with description like custom and uniqe. I will create visually appealing and unique websites that will enhance over-all internet experience for those viewing it.
 
 <!--
 **Honzeenek/Honzeenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

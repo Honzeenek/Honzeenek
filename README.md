@@ -29,6 +29,9 @@ I’m passionate about creating custom, fully unique websites that add real valu
 <details>
   <summary><h3>👨‍💻My Coding Journey</h3></summary>
   Coming soon
+  html went kinda smooth
+  same with css
+  Then javascript came with a suffering so I ended my subscription on scrimba and started all over on udemy course that A friend coder recommended me
 </details>
 <!--
 **Honzeenek/Honzeenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

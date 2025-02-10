@@ -16,9 +16,6 @@ I’m passionate about creating custom, fully unique websites that add real valu
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 
-
-#
-
 ### 📊 Stats
 
 ![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=honzeenek&show_icons=true&theme=tokyonight)

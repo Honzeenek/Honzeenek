@@ -8,22 +8,6 @@ I'm a student focused on building my skills in web development, aiming for a car
 I’m passionate about creating custom, fully unique websites that add real value, especially in a landscape where many sites rely on WordPress templates, often lacking true customization and uniqueness. My mission is to craft visually compelling and original websites that elevate the browsing experience for users.
 
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
- 
-
-#
-#
-#
-
-### 📊 Stats
-
-![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=honzeenek&show_icons=true&theme=tokyonight)
-
 
 #
 
@@ -34,17 +18,3 @@ I’m passionate about creating custom, fully unique websites that add real valu
   same with css
   Then javascript came with a suffering so I ended my subscription on scrimba and started all over on udemy course that A friend coder recommended me
 </details>
-<!--
-**Honzeenek/Honzeenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

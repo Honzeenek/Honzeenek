@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0FF7AB&center=true&vCenter=true&width=435&lines=Website+Engineer;Learning+Web-Development;Focused+on+Progress)](https://git.io/typing-svg)
-
 # 🌠 Honzeenek | JP
 **`Website Engineer (Learning Code/Graphic Designer/Freelancer)`**
 

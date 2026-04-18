@@ -39,12 +39,6 @@ Currently building **[smirky.dev](https://smirky.dev)** on the side and sharing 
 
 ---
 
-### GitHub Stats
-
-![Honzeenek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Honzeenek&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff)
-
----
-
 ### Find me
 
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/honzeenek)
